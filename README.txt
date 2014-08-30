@@ -1,6 +1,6 @@
-Please put eDuino UNO BSP under the directory "hardware\arduino" of Arduino IDE， and rename "stm32".
+﻿Please put eDuino UNO BSP under the directory "hardware\arduino" of Arduino IDE， and rename "stm32".
 
-eDuino UNO V1.0.0 - 2014.08.06 
+eDuino UNO V1.0.0 - 2014.08.30 
 
 * This is the first released of the eDuino UNO bsp library.
   It's a test version, but it can be used to work.
